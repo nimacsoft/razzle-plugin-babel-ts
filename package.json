@@ -1,0 +1,25 @@
+{
+  "name": "razzle-plugin-babel-ts",
+  "version": "1.0.0",
+  "description": "Razzle plugin to add Typescript Support with Babel 7",
+  "main": "index.js",
+  "scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nimacsoft/razzle-plugin-babel-ts.git"
+  },
+  "keywords": [
+    "razzle",
+    "babel",
+		"typescript",
+		"plugin"
+  ],
+  "author": "Nima Arefi <nimaarefi@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nimacsoft/razzle-plugin-babel-ts/issues"
+  },
+  "homepage": "https://github.com/nimacsoft/razzle-plugin-babel-ts#readme"
+}
