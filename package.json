@@ -15,11 +15,15 @@
     "babel",
 		"typescript",
 		"plugin"
-  ],
+	],
   "author": "Nima Arefi <nimaarefi@outlook.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/nimacsoft/razzle-plugin-babel-ts/issues"
   },
-  "homepage": "https://github.com/nimacsoft/razzle-plugin-babel-ts#readme"
+	"homepage": "https://github.com/nimacsoft/razzle-plugin-babel-ts#readme",
+	"dependencies": {
+		"@babel/preset-typescript": "~7.0.0",
+		"typescript": "*"
+	}
 }
