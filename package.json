@@ -1,6 +1,6 @@
 {
   "name": "razzle-plugin-babel-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Razzle plugin to add Typescript Support with Babel 7",
   "main": "index.js",
   "scripts": {
